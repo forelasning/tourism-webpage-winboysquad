@@ -8,3 +8,13 @@
   object-fit: cover;
   margin-bottom: 1rem;
 }
+
+.toptext{
+  Margin: 100;
+  padding: 100;
+}
+
+
+#max{
+  max-height: 500px;
+}
